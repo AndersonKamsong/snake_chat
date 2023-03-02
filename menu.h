@@ -10,9 +10,9 @@
 
 void display_cover(){
   system("clear");
-  printf("\033[31;44mWelcome to **********                     #\n");
+  printf("\033[31;44mWelcome to snake_chat                     #\n");
   sleep(1);
-  printf("********** is a chat program with a game  #\n");
+  printf("snake_chat is a chat program with a game  #\n");
   sleep(1);
   printf("It enable user to send message to another #\n");
   printf("user or to himself                        #\n");
@@ -27,7 +27,7 @@ void display_cover(){
   sleep(1);
   printf("***********                               #\n");
   sleep(1);
-  printf("***********                               #\n");
+  printf("Kamsong Gaston Anderson                   #\n");
   sleep(1);
   printf("***********                               #\n");
   sleep(1);
